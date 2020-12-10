@@ -1,1 +1,1 @@
-# BugStatistics--web
+# BugStatistics-web
